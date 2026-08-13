@@ -1,0 +1,13 @@
+# Target labels
+ ascendc_kernels_npu_preprocess
+# Source files and their labels
+/home/fanyi/fyfy/build/CMakeFiles/ascendc_kernels_npu_preprocess
+/home/fanyi/fyfy/build/CMakeFiles/ascendc_kernels_npu_preprocess.rule
+/home/fanyi/fyfy/build/CMakeFiles/ascendc_kernels_npu_preprocess-complete.rule
+/home/fanyi/fyfy/build/ascendc_kernels_npu_preprocess-prefix/src/ascendc_kernels_npu_preprocess-stamp/ascendc_kernels_npu_preprocess-build.rule
+/home/fanyi/fyfy/build/ascendc_kernels_npu_preprocess-prefix/src/ascendc_kernels_npu_preprocess-stamp/ascendc_kernels_npu_preprocess-configure.rule
+/home/fanyi/fyfy/build/ascendc_kernels_npu_preprocess-prefix/src/ascendc_kernels_npu_preprocess-stamp/ascendc_kernels_npu_preprocess-download.rule
+/home/fanyi/fyfy/build/ascendc_kernels_npu_preprocess-prefix/src/ascendc_kernels_npu_preprocess-stamp/ascendc_kernels_npu_preprocess-install.rule
+/home/fanyi/fyfy/build/ascendc_kernels_npu_preprocess-prefix/src/ascendc_kernels_npu_preprocess-stamp/ascendc_kernels_npu_preprocess-mkdir.rule
+/home/fanyi/fyfy/build/ascendc_kernels_npu_preprocess-prefix/src/ascendc_kernels_npu_preprocess-stamp/ascendc_kernels_npu_preprocess-patch.rule
+/home/fanyi/fyfy/build/ascendc_kernels_npu_preprocess-prefix/src/ascendc_kernels_npu_preprocess-stamp/ascendc_kernels_npu_preprocess-update.rule

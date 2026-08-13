@@ -1,0 +1,4 @@
+/home/fanyi/fyfy/out/lib/libascendc_kernels_npu.so
+/home/fanyi/fyfy/out/include/ascendc_kernels_npu/aclrtlaunch_triple_chevrons_func.h
+/home/fanyi/fyfy/out/include/ascendc_kernels_npu/aclrtlaunch_matmul_prelu_custom.h
+/home/fanyi/fyfy/out/bin/ascendc_kernels_bbit

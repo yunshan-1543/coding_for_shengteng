@@ -1,0 +1,16 @@
+/home/fanyi/fyfy/build/CMakeFiles/ascendc_kernels_npu_interface.dir
+/home/fanyi/fyfy/build/CMakeFiles/ascendc_kernels_npu_precompile.dir
+/home/fanyi/fyfy/build/CMakeFiles/ascendc_kernels_npu_preprocess.dir
+/home/fanyi/fyfy/build/CMakeFiles/ascendc_kernels_npu_aic_device.dir
+/home/fanyi/fyfy/build/CMakeFiles/ascendc_kernels_npu_aiv_device.dir
+/home/fanyi/fyfy/build/CMakeFiles/ascendc_kernels_npu_merge_obj.dir
+/home/fanyi/fyfy/build/CMakeFiles/ascendc_kernels_npu_host.dir
+/home/fanyi/fyfy/build/CMakeFiles/ascendc_kernels_npu_host_stub_obj.dir
+/home/fanyi/fyfy/build/CMakeFiles/ascendc_kernels_npu.dir
+/home/fanyi/fyfy/build/CMakeFiles/ascendc_kernels_bbit.dir
+/home/fanyi/fyfy/build/CMakeFiles/edit_cache.dir
+/home/fanyi/fyfy/build/CMakeFiles/rebuild_cache.dir
+/home/fanyi/fyfy/build/CMakeFiles/list_install_components.dir
+/home/fanyi/fyfy/build/CMakeFiles/install.dir
+/home/fanyi/fyfy/build/CMakeFiles/install/local.dir
+/home/fanyi/fyfy/build/CMakeFiles/install/strip.dir

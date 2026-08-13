@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/fanyi/fyfy/build/CMakeFiles/ascendc_kernels_npu_host"
+		},
+		{
+			"file" : "/home/fanyi/fyfy/build/CMakeFiles/ascendc_kernels_npu_host.rule"
+		},
+		{
+			"file" : "/home/fanyi/fyfy/build/CMakeFiles/ascendc_kernels_npu_host-complete.rule"
+		},
+		{
+			"file" : "/home/fanyi/fyfy/build/ascendc_kernels_npu_host-prefix/src/ascendc_kernels_npu_host-stamp/ascendc_kernels_npu_host-build.rule"
+		},
+		{
+			"file" : "/home/fanyi/fyfy/build/ascendc_kernels_npu_host-prefix/src/ascendc_kernels_npu_host-stamp/ascendc_kernels_npu_host-configure.rule"
+		},
+		{
+			"file" : "/home/fanyi/fyfy/build/ascendc_kernels_npu_host-prefix/src/ascendc_kernels_npu_host-stamp/ascendc_kernels_npu_host-download.rule"
+		},
+		{
+			"file" : "/home/fanyi/fyfy/build/ascendc_kernels_npu_host-prefix/src/ascendc_kernels_npu_host-stamp/ascendc_kernels_npu_host-install.rule"
+		},
+		{
+			"file" : "/home/fanyi/fyfy/build/ascendc_kernels_npu_host-prefix/src/ascendc_kernels_npu_host-stamp/ascendc_kernels_npu_host-mkdir.rule"
+		},
+		{
+			"file" : "/home/fanyi/fyfy/build/ascendc_kernels_npu_host-prefix/src/ascendc_kernels_npu_host-stamp/ascendc_kernels_npu_host-patch.rule"
+		},
+		{
+			"file" : "/home/fanyi/fyfy/build/ascendc_kernels_npu_host-prefix/src/ascendc_kernels_npu_host-stamp/ascendc_kernels_npu_host-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ascendc_kernels_npu_host"
+		],
+		"name" : "ascendc_kernels_npu_host"
+	}
+}

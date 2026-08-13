@@ -1,0 +1,13 @@
+# Target labels
+ ascendc_kernels_npu_host
+# Source files and their labels
+/home/fanyi/fyfy/build/CMakeFiles/ascendc_kernels_npu_host
+/home/fanyi/fyfy/build/CMakeFiles/ascendc_kernels_npu_host.rule
+/home/fanyi/fyfy/build/CMakeFiles/ascendc_kernels_npu_host-complete.rule
+/home/fanyi/fyfy/build/ascendc_kernels_npu_host-prefix/src/ascendc_kernels_npu_host-stamp/ascendc_kernels_npu_host-build.rule
+/home/fanyi/fyfy/build/ascendc_kernels_npu_host-prefix/src/ascendc_kernels_npu_host-stamp/ascendc_kernels_npu_host-configure.rule
+/home/fanyi/fyfy/build/ascendc_kernels_npu_host-prefix/src/ascendc_kernels_npu_host-stamp/ascendc_kernels_npu_host-download.rule
+/home/fanyi/fyfy/build/ascendc_kernels_npu_host-prefix/src/ascendc_kernels_npu_host-stamp/ascendc_kernels_npu_host-install.rule
+/home/fanyi/fyfy/build/ascendc_kernels_npu_host-prefix/src/ascendc_kernels_npu_host-stamp/ascendc_kernels_npu_host-mkdir.rule
+/home/fanyi/fyfy/build/ascendc_kernels_npu_host-prefix/src/ascendc_kernels_npu_host-stamp/ascendc_kernels_npu_host-patch.rule
+/home/fanyi/fyfy/build/ascendc_kernels_npu_host-prefix/src/ascendc_kernels_npu_host-stamp/ascendc_kernels_npu_host-update.rule

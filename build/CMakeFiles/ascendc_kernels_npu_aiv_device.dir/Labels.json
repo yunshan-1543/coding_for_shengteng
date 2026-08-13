@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/fanyi/fyfy/build/CMakeFiles/ascendc_kernels_npu_aiv_device"
+		},
+		{
+			"file" : "/home/fanyi/fyfy/build/CMakeFiles/ascendc_kernels_npu_aiv_device.rule"
+		},
+		{
+			"file" : "/home/fanyi/fyfy/build/CMakeFiles/ascendc_kernels_npu_aiv_device-complete.rule"
+		},
+		{
+			"file" : "/home/fanyi/fyfy/build/ascendc_kernels_npu_aiv_device-prefix/src/ascendc_kernels_npu_aiv_device-stamp/ascendc_kernels_npu_aiv_device-build.rule"
+		},
+		{
+			"file" : "/home/fanyi/fyfy/build/ascendc_kernels_npu_aiv_device-prefix/src/ascendc_kernels_npu_aiv_device-stamp/ascendc_kernels_npu_aiv_device-configure.rule"
+		},
+		{
+			"file" : "/home/fanyi/fyfy/build/ascendc_kernels_npu_aiv_device-prefix/src/ascendc_kernels_npu_aiv_device-stamp/ascendc_kernels_npu_aiv_device-download.rule"
+		},
+		{
+			"file" : "/home/fanyi/fyfy/build/ascendc_kernels_npu_aiv_device-prefix/src/ascendc_kernels_npu_aiv_device-stamp/ascendc_kernels_npu_aiv_device-install.rule"
+		},
+		{
+			"file" : "/home/fanyi/fyfy/build/ascendc_kernels_npu_aiv_device-prefix/src/ascendc_kernels_npu_aiv_device-stamp/ascendc_kernels_npu_aiv_device-mkdir.rule"
+		},
+		{
+			"file" : "/home/fanyi/fyfy/build/ascendc_kernels_npu_aiv_device-prefix/src/ascendc_kernels_npu_aiv_device-stamp/ascendc_kernels_npu_aiv_device-patch.rule"
+		},
+		{
+			"file" : "/home/fanyi/fyfy/build/ascendc_kernels_npu_aiv_device-prefix/src/ascendc_kernels_npu_aiv_device-stamp/ascendc_kernels_npu_aiv_device-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ascendc_kernels_npu_aiv_device"
+		],
+		"name" : "ascendc_kernels_npu_aiv_device"
+	}
+}

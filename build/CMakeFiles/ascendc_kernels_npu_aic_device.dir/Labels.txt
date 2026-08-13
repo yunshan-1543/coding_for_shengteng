@@ -1,0 +1,13 @@
+# Target labels
+ ascendc_kernels_npu_aic_device
+# Source files and their labels
+/home/fanyi/fyfy/build/CMakeFiles/ascendc_kernels_npu_aic_device
+/home/fanyi/fyfy/build/CMakeFiles/ascendc_kernels_npu_aic_device.rule
+/home/fanyi/fyfy/build/CMakeFiles/ascendc_kernels_npu_aic_device-complete.rule
+/home/fanyi/fyfy/build/ascendc_kernels_npu_aic_device-prefix/src/ascendc_kernels_npu_aic_device-stamp/ascendc_kernels_npu_aic_device-build.rule
+/home/fanyi/fyfy/build/ascendc_kernels_npu_aic_device-prefix/src/ascendc_kernels_npu_aic_device-stamp/ascendc_kernels_npu_aic_device-configure.rule
+/home/fanyi/fyfy/build/ascendc_kernels_npu_aic_device-prefix/src/ascendc_kernels_npu_aic_device-stamp/ascendc_kernels_npu_aic_device-download.rule
+/home/fanyi/fyfy/build/ascendc_kernels_npu_aic_device-prefix/src/ascendc_kernels_npu_aic_device-stamp/ascendc_kernels_npu_aic_device-install.rule
+/home/fanyi/fyfy/build/ascendc_kernels_npu_aic_device-prefix/src/ascendc_kernels_npu_aic_device-stamp/ascendc_kernels_npu_aic_device-mkdir.rule
+/home/fanyi/fyfy/build/ascendc_kernels_npu_aic_device-prefix/src/ascendc_kernels_npu_aic_device-stamp/ascendc_kernels_npu_aic_device-patch.rule
+/home/fanyi/fyfy/build/ascendc_kernels_npu_aic_device-prefix/src/ascendc_kernels_npu_aic_device-stamp/ascendc_kernels_npu_aic_device-update.rule

@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/fanyi/fyfy/build/ascendc_kernels_npu_host-prefix/src/ascendc_kernels_npu_host-build",
+  "command": "/home/fanyi/Ascend/ascend-toolkit/latest/tools/ccec_compiler/bin/bisheng -DTILING_KEY_VAR=0 -DONE_CORE_DUMP_SIZE=1048576 -I/home/fanyi/Ascend/ascend-toolkit/latest/tools/tikcpp/tikcfw -I/home/fanyi/Ascend/ascend-toolkit/latest/tools/tikcpp/tikcfw/interface -I/home/fanyi/Ascend/ascend-toolkit/latest/tools/tikcpp/tikcfw/impl -g -include /home/fanyi/fyfy/build/include/ascendc_kernels_npu/aclrtlaunch_triple_chevrons_func.h -O3 -std=c++17 --cce-aicore-lang -include /home/fanyi/Ascend/ascend-toolkit/latest/tools/../include/version/cann_version.h -fPIC --cce-host-only -fcce-kernel-launch-custom -o CMakeFiles/host_bisheng_obj.dir/home/fanyi/fyfy/matmul_prelu_custom.cpp.o -c /home/fanyi/fyfy/matmul_prelu_custom.cpp",
+  "file": "/home/fanyi/fyfy/matmul_prelu_custom.cpp",
+  "output": "CMakeFiles/host_bisheng_obj.dir/home/fanyi/fyfy/matmul_prelu_custom.cpp.o"
+}
+]

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libascendc_kernels_npu_interface.a CMakeFiles/ascendc_kernels_npu_interface.dir/ascendc_kernels_npu_stub.cpp.o
+/usr/bin/ranlib libascendc_kernels_npu_interface.a
